@@ -14,7 +14,7 @@ import { PageAnimation } from "../Animation";
 
 const MatchDay = () => {
   const [value, setValue] = React.useState(0);
-  const [season, setseason] = useState("2023");
+  const [season, setseason] = useState("2024");
   const [id, setId] = useState("39");
   const currentDate = new Date();
 
